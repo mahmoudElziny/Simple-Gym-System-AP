@@ -1,0 +1,19 @@
+{
+  "name": "mahmoud-abdelsamad-mahmoud-sun-wed-7pm-assignment-3-01156864422",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Mahmoud Elzeny",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7"
+  }
+}
